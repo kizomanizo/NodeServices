@@ -1,10 +1,8 @@
-# Rest Api Node and Mysql
+# The North API backend
 
 ## Description
-This is an Restful API for Node.js and Mysql. Designed after PHP's beautiful Laravel. This is in the MVC format,
-except because it is an API there are no views, just models and controllers.
+This is an API backend that is consumed by mobile and web applications for THE NORTH vicoba. The API is built atop the following technologies:
 
-tutorial can be found here: https://medium.com/@brianalois/build-a-rest-api-for-node-mysql-2018-jwt-6957bcfc7ac9
 ##### Routing         : Express
 ##### ORM Database    : Sequelize
 ##### Authentication  : Passport, JWT
